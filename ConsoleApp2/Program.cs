@@ -10,6 +10,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            string[] frutas = { "maça", "Banana", "laranja", "coco", "pera" };
+            string[] animais = { "cachorro", "gato", "elefante", "leão", "tigre" };
+
+
+
         }
     }
 }
